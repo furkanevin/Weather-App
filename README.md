@@ -3,7 +3,7 @@
 
 <h1>preview</h1>
 <div style="display:flex">
-<img src="https://user-images.githubusercontent.com/109925130/190858790-900d6b01-65e1-4e79-b0a6-9d8e552a6879.gif" style="width: 600px; height:350px;">
+<img src="https://user-images.githubusercontent.com/109925130/190869578-f84c1ecc-ca50-413e-b7f7-87d31704bdd9.gif" style="width: 800px;">
 <img src="https://user-images.githubusercontent.com/109925130/190860289-ae66328a-41d2-4da2-b994-a9ec3bf3a927.png">
 </div>
 
