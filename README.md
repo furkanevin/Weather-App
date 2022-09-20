@@ -2,7 +2,7 @@
 <h4>Tech Stack;</h4>
 <a tarfet="blank" href="https://openweathermap.org"> OpenWeather API</a> <br>
 <a tarfet="blank" href="https://www.npmjs.com/package/react-toastify"> React Toastify </a> <br>
-<a tarfet="blank" href="https://iconscout.com/unicons"> Unicons </a <br>
+<a tarfet="blank" href="https://iconscout.com/unicons"> Unicons </a> <br>
 <a tarfet="blank" href="https://moment.github.io/luxon/#/"> Luxon </a> <br>
 <h1>preview</h1>
 <img src="https://user-images.githubusercontent.com/109925130/190870576-2faa1b35-2788-4c50-9dd3-82e435e6d2e7.png">
